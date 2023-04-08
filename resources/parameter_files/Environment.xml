@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Environment>
+	<!--chrome, Firefox, Ie-->
+	<Browser>Chrome</Browser>
+	<UrlEnvironment>https://inhouse.decemberlabs.com/</UrlEnvironment>
+
+	<!--Extent Report-->
+	<PathReportHtml>..\..\..\reportHTML</PathReportHtml>
+	<Theme>1</Theme>
+	<DocumentTitle>December Labs Execution</DocumentTitle>
+	<ReportName>December Labs Test Execution</ReportName>
+	<Encoding>utf-8</Encoding>
+</Environment>
